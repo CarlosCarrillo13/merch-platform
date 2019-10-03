@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "merchandiseplatform",
+    "packageName": "com.carrillo.merchandise",
+    "packageFolder": "com/carrillo/merchandise",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "es",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.3.1",
+    "jwtSecretKey": "MzNlYTY4OGM0YWNmZTUwMGU5YWNjZjBiMzYzOTIyM2QwOTAyYWZmNWQ4NjllMjkwZmE0YTczZjdhMWNkMzQ5ODE4NDk1MmM3YmY3OWQ5MzFjOTk4OGNhYTllOWQ5ZmE2ZTJlZGQzNjk5ZWY0MDg0MWZhMTJmM2QyMWRhOTJmZmM=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "CarlosCarrillo13",
+  "repository-name": "merch-platform"
+}
